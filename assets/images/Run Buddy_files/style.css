@@ -17,7 +17,6 @@ header {
     background-color: #39a6b2;
     display: flex;
     justify-content: space-between;
-    flex-wrap: wrap;
 }
 
 /* additonal styles to specific header components*/
